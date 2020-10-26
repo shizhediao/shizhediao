@@ -1,7 +1,12 @@
-### Hi there 👋
+### Hi I am Shizhe(Victor) Diao 👋
 
 <!--
 **shizhediao/shizhediao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<div>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=shizhediao&show_icons=true&icon_color=000000&text_color=000000&bg_color=ffffff&hide_title=false&title_color=000000?count_private=true&include_all_commits=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shizhediao&count_private=true" />
+</div>
 
 Here are some ideas to get you started:
 
@@ -14,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
