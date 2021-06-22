@@ -4,7 +4,7 @@
 Hello, my name is Shizhe Diao and I am now a final year Master of Philosophy (M.Phil) student at [the Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/home), majoring in Computer Science and supervised by [Prof. Tong Zhang](http://tongzhang-ml.org/).
 My research focuses on artificial intelligence, mainly in the context of natural language processing (NLP). Recently, I have been doing research on the natural language generation.
 
-Besides programming, I have an immense interest in swimming 🏊, kayaking 🚣 and stand up paddling!
+Besides programming, I have an immense interest in swimming 🏊, kayaking 🚣, windsurfing :surfer:, and stand up paddling!
 
 <div>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=shizhediao&show_icons=true&icon_color=000000&text_color=000000&bg_color=ffffff&hide_title=false&title_color=000000?count_private=true&include_all_commits=true" />
