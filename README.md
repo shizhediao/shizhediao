@@ -8,7 +8,7 @@ Besides programming, I have an immense interest in swimming 🏊, kayaking 🚣,
 
 <div>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=shizhediao&show_icons=true&icon_color=000000&text_color=000000&bg_color=ffffff&hide_title=false&title_color=000000?count_private=true&include_all_commits=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shizhediao&count_private=true" />
+<img align="center" src="https://komarev.com/ghpvc/?username=shizhediao" />
 
 </div>
 
