@@ -12,10 +12,8 @@ Besides programming, I have an immense interest in swimming 🏊, kayaking 🚣,
   
 </div>
 
-
-<div><p align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=shizhediao.shizhediao" /> </p> </div>
-
-
+<p align="center"> 
+<img src="https://komarev.com/ghpvc/?username=shizhediao&label=Profile%20views&color=blue&style=flat" alt="C3n7ral051nt4g3ncy"/></p>
 
 
 <!--
