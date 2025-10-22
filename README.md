@@ -1,7 +1,7 @@
 
 <h1>Aloha. I'm Shizhe Diao 👋 </h1>
 
-Hello, my name is Shizhe Diao and I am now a final-year Ph.D. candidate at [the Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/home), majoring in Computer Science and supervised by [Prof. Tong Zhang](http://tongzhang-ml.org/).
+Hello, my name is Shizhe Diao and I am now a researcher at NVIDIA Research. I completed my Ph.D. at [the Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/home), advised by [Prof. Tong Zhang](http://tongzhang-ml.org/).
 My research focuses on pre-training, efficient-tuning, and adaptation of large language models.
 
 Besides programming, I have an immense interest in swimming 🏊, kayaking 🚣, windsurfing :surfer:, dinghy sailing :sailboat:, and stand up paddling!
