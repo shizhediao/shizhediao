@@ -1,16 +1,9 @@
 
 <h1>Aloha. I'm Shizhe Diao 👋 </h1>
 
-I am a researcher at NVIDIA Research. I completed my Ph.D. at [the Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/home), advised by [Prof. Tong Zhang](http://tongzhang-ml.org/).
-My research focuses on pre-training, efficient-tuning, and adaptation of large language models.
+I am a research scientist at NVIDIA Research. I was a visiting scholar at University of Illinois at Urbana-Champaign, working with Prof. Heng Ji. I received my Ph.D. in 2023 advised by Prof. Tong Zhang. My research focuses on developing methods to scale up post-training and reinforcement learning for large language models, pushing the frontier of more capable, general-purpose AI agents through data-centric design.
 
 Besides programming, I have an immense interest in swimming 🏊, kayaking 🚣, windsurfing :surfer:, dinghy sailing :sailboat:, and stand up paddling!
-
-<div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=shizhediao&show_icons=true&icon_color=000000&text_color=000000&bg_color=ffffff&hide_title=false&title_color=000000?count_private=true&include_all_commits=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shizhediao&count_private=true" />
-  
-</div>
 
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=shizhediao&label=Profile%20views&color=blue&style=flat" alt="C3n7ral051nt4g3ncy"/></p>
