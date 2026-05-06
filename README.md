@@ -1,7 +1,7 @@
 
 <h1>Aloha. I'm Shizhe Diao 👋 </h1>
 
-I am a research scientist at NVIDIA Research. I was a visiting scholar at University of Illinois at Urbana-Champaign, working with Prof. Heng Ji. I received my Ph.D. in 2023 advised by Prof. Tong Zhang. My research focuses on developing methods to scale up post-training and reinforcement learning for large language models, pushing the frontier of more capable, general-purpose AI agents through data-centric design.
+I am a senior research scientist at NVIDIA Research. I was a visiting scholar at University of Illinois at Urbana-Champaign, working with Prof. Heng Ji. I received my Ph.D. in 2023 advised by Prof. Tong Zhang. My research focuses on developing methods to scale up post-training and reinforcement learning for large language models, pushing the frontier of more capable, general-purpose AI agents through data-centric design.
 
 Besides programming, I have an immense interest in swimming 🏊, kayaking 🚣, windsurfing :surfer:, dinghy sailing :sailboat:, and stand up paddling!
 
